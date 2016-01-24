@@ -10,7 +10,7 @@ Copy all files and into your project.
 There are two activities: Main and Edit. Main Activity implements the list of todo items and textfield used to add items. 
 
 The gif below demonstrates the app features.
-![Alt Text](https://github.com/opmaominc/Simple-To-Do/app/src/main/res/gifdemo/SimpleTodo.gif)
+![Alt Text](https://github.com/opmaominc/Simple-To-Do/blob/master/app/src/main/res/gifdemo/SimpleTodo.gif)
 
 ## History
 1.0 - Initial commit - Simple Todo app.
